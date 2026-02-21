@@ -1,0 +1,6 @@
+# requirements.txt
+httpx
+pydantic
+python-dotenv
+duckdb
+loguru
