@@ -297,4 +297,4 @@ __pycache__/
 *.pyc
 .footy_venv/
 
-footy-fastapi/json/
+footy-ingest/json/
