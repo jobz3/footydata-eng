@@ -1,0 +1,23 @@
+sources:
+  - name: footydata_eng_raw
+    schema: main
+    description: "Source data for footydata_eng models"
+    tables:
+    - name: league_standings
+      description: "Raw league standings data"
+    - name: matches
+      description: "Raw match data"
+    - name: dim_team
+      description: "Dimension table for teams"
+    - name: dim_area
+      description: "Dimension table for areas"
+    - name: dim_season
+      description: "Dimension table for seasons"
+    - name: dim_competition
+      description: "Dimension table for competitions"
+    - name: dim_player
+      description: "Dimension table for players"
+    - name: dim_coach
+      description: "Dimension table for coaches"
+    - name: clubs
+      description: "Raw club data"
